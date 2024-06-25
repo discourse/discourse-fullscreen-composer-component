@@ -1,3 +1,6 @@
 en:
   theme_metadata:
     description: Always opens the composer fullscreen
+    settings:
+      fullscreen_for_new_topics: When disabled, the composer will not open fullscreen for new topics
+      full_height_not_fullscreen: When enabled, the composer will open to the available screen height but not in fullscreen mode
