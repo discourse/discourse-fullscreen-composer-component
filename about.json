@@ -3,7 +3,7 @@
   "component": true,
   "authors": "Discourse",
   "about_url": "",
-  "license_url": "",
+  "license_url": "https://github.com/discourse/discourse-fullscreen-composer-component/blob/main/LICENSE",
   "learn_more": "",
   "theme_version": "0.0.1"
 }

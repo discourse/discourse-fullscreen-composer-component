@@ -1,5 +1,3 @@
-# discourse-fullscreen-composer-component
+# Fullscreen Composer Component
 
-**Theme Summary**
-
-For more information, please see: **url to meta topic**
+Always force the Discourse composer to open in fullscreen
