@@ -1,5 +1,7 @@
 fullscreen_for_new_topics:
   default: true
+  refresh: true
 
 full_height_not_fullscreen:
   default: false
+  refresh: true
