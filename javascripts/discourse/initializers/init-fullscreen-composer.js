@@ -1,6 +1,6 @@
 import { apiInitializer } from "discourse/lib/api";
 
-export default apiInitializer("0.11.1", (api) => {
+export default apiInitializer((api) => {
   const composer = api.container.lookup("service:composer");
   const site = api.container.lookup("service:site");
   if (site.desktopView) {
